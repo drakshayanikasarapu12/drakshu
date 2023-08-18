@@ -1,0 +1,138 @@
+*{
+    font-family: 'Lato',sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+.nv input{
+    height: 50px;
+    width: 1000px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.nv{
+    background-image: url(./81f3ff974d82520780078ba1cfbd453a1583259680.webp);
+    width: 100%;
+    height: 520px;
+}
+.nv h1{
+    margin-top: 180px;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    margin-right: 80px;
+}
+.nv nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: white;
+    
+}
+.nv nav .right{
+    display: flex;
+
+}
+nav p{
+    margin-inline: 11px;
+    margin-top: 22px;
+}
+.nv .logo{
+    text-align: center;
+
+}
+.nv .logo img{
+     width: 45%;
+     margin-top: 66px;
+}
+.nv .span {
+    text-align: center;
+    padding-left: -50px;
+    margin-top: -300px;
+}
+.nv .inp .input{
+    font-family: 'mukta',sans-serif;
+     width: 600px;
+     height: 10px;
+     font-size: 19px;
+     padding: 22px;
+     border: none;
+     border-radius: 10px;
+     outline: none;
+     margin-top: 42px;
+} 
+.card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: -30px;
+}
+.card .crd img{
+    display: flex;
+    width: 365px;
+    height: 220px;
+    border-radius: 4px;
+    margin-top: 55px;
+    border-bottom-left-radius: 130px;
+    border-top-right-radius: 130px
+    
+}
+
+
+.coll .txt{
+    display: flex;
+    display: flex;
+    margin-left: -20px;
+    margin-top: 15px;
+    padding: 33px;
+}
+ .coll .img{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+.rest .img{
+    display: flex;
+    width: 25%;
+    border-radius: 7px;
+    height: 25%;
+    
+}
+.app{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(249,229,233);
+}
+.app img{
+    width: 37%;
+}
+.app h1{
+    margin-top: 94px;
+    font-size: 44px;
+}
+.btn.h1{
+    margin-left: 44px;
+    margin-top: 44px;
+    padding: 33px;
+}
+.btn button{
+    width: 900px;
+    height: 50px;
+    background-color: transparent;
+    border: 1px solid gray;
+    margin-top: 11px;
+    margin-left: 133px;
+    font-size: 22px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(235,231,231);
+    margin-top: 44px;
+    padding: 44px;
+}
+.nv.span{
+margin-left: 200px;
+}
